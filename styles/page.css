@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  ul {
+    margin: 0;
+    padding: 30px;
+    padding-top: 22px;
+    padding-bottom: none;
+    /* overflow: hidden; */
+  }
+  li {
+    display: inline;
+    padding: 1% 5%;
+    /* background-size: center; */
+    text-decoration: none;
+    position: inherit;
+  }
+  .nav {
+    cursor: pointer;
+  }
+  .bar1,.bar2,.bar3 {
+    width: 25px;
+    height: 3px;
+    background-color: black;
+    margin: 4px 0;
+  }

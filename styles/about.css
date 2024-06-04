@@ -1,0 +1,72 @@
+
+body {
+            font-family: Arial, sans-serif;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+        }
+        h2 {
+            color: #4CAF50;
+        }
+
+        h3 {
+            color: #4CAF50;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            bottom: 0;
+            width: 100%;
+        }
+.matter{
+        margin-top: 4.3rem;
+}
+footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+}
+
+.achievement {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.achievement img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+.achievement h2 {
+    color: #28A745;
+}
+
+.achievement p {
+    color: #6C757D;
+}
+.footer {
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+.head{
+    font-size: 15px;
+    color: white;
+}
+.para{
+    font-size: 10px;
+}

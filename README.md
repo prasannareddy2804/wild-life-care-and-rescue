@@ -34,5 +34,4 @@ This project was developed as part of a community service initiative. I conducte
 ## Live Demo
 The project is deployed and can be accessed at: [Wildlife Care and Rescue](https://wild-life-care-and-rescue.vercel.app/)
 
-## Contributions
-Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure that your code adheres to the existing style and structure.
+
